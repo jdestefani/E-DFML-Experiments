@@ -9,8 +9,9 @@ install.packages(c("tensorflow","keras","forecast","dplyr","abind",
                    "vars","DMwR","lightgbm")
 
 devtools::install_github("gbonte/gbcode")
-devtools::install_github("jdestefani/MultivariateBenchmarksTS") #Soon available
-devtools::install_github("jdestefani/ExtendedDFML") #Soon available
+devtools::install_github("jdestefani/MM4Benchmark") 
+devtools::install_github("jdestefani/ExtendedDFML") 
+devtools::install_github("jdestefani/MEMTS")  
 ```
 
 ## Quickstart
